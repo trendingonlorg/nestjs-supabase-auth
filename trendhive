@@ -1,0 +1,3 @@
+npx create-next-app@latest trendhive
+cd trendhive
+npm install @supabase/supabase-js stripe
